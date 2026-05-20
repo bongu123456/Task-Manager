@@ -1,7 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "build": "cd Frontend && npm install && npm run build"
+    "build": "cd Frontend && npm install && npm run build",
+    "vercel-build": "cd Frontend && npm install && npm run build"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.0",
