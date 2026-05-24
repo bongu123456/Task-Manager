@@ -1,5 +1,5 @@
 import './App.css'
-import TaskManager from './COMPONENTS/TaskManager'
+import TaskManager from './Components/TaskManager'
 
 function App() {
   return (
